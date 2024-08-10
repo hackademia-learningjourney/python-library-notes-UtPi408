@@ -1,0 +1,41 @@
+Python Libraries
+
+1. Pandas
+-Authorized under Berkeley Programing Conveyance
+-Library used for data science 
+-Provided high level data structures and analysis tools for ease of data analysis, data manipulation
+-helpful in sorting, data conversion, visualization, aggregations, cleaning
+
+
+2. NumPy
+-Stands for "Numerical Python"
+-Supports multi dimensional arrays and matrices used for numerical computing in python 
+-consists of built in mathematical functions
+-Used over python lists (which store multiple items in a single variable) as it is faster and uses less memory
+
+
+3. TensorFlow
+-developed by google + brain team 
+-used for machine learning and deep learning algorithms
+-can build deep neural networks and machine learning modules with efficient use of GPU/TPU
+-used for complex physics and mathematical calculations 
+
+4. Keras
+-API for high level neural networks
+-can run with TensorFlow, Theano, CNTK 
+-Can facilitate fast experimentation/ prototyping of deep neural networks
+
+
+5. Sklearn
+-scikit-learn
+-Python based open source machine learing library
+-supervised and unsupervised learning methods
+-can be used for data mining and data analysis
+-example spotify music for "music you might like"
+
+
+6. Pytorch
+-developed by facebook
+-used for deep learning and neural network
+-has extensive library for building complex modules
+-strong support for GPU acceleration
